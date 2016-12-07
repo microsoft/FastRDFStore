@@ -1,4 +1,4 @@
-We use the [Command Line Parser Library](https://github.com/gsscoder) v.1.9.71 to parse the arguments, 
+We use the [Command Line Parser Library](https://github.com/gsscoder/commandline) v.1.9.71 to parse the arguments, 
 and include the library file CommandLine.dll in this folder. 
 The [license of Command Line Parser Library](https://github.com/gsscoder/commandline/blob/master/License.md) is copied below:
 
