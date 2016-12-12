@@ -1,4 +1,4 @@
-#MSR FastRDFStore Package
+a#MSR FastRDFStore Package
 -----
 
 ## Overview
@@ -7,7 +7,7 @@ The MSR FastRDFStore Package is designed for creating an in-memory index of RDF 
 
 In addition to the binary executables and the source code, the package includes the last dump of Freebase ([freebase-rdf-2015-08-09-00-01.gz](https://developers.google.com/freebase/)), as well as the processed version ready to load directly into FastRDFStore. Users who would like to use the package for Freebase do not need to compile the package and process the raw data, but instead can run the executables directly. The executables can be directly run on Windows, or on Linux using [Mono](http://www.mono-project.com/ "Cross platform, open source .NET framework").
 
-FastRDFStore was originally designed to support the creation of the [WebQuestions Semantic Parses Dataset (WebQSP)](https://www.aka.ms/WebQSP "WebQuestions Semantic Parses Dataset"). Details on this datset can be found at our ACL-2016 paper: Yih, Richardson, Meek, Chang & Suh. "[The Value of Semantic Parse Labeling for Knowledge Base Question Answering](https://aclweb.org/anthology/P/P16/P16-2033.pdf)."
+FastRDFStore was originally designed to support the creation of the [WebQuestions Semantic Parses Dataset (WebQSP)](https://www.aka.ms/WebQSP "WebQuestions Semantic Parses Dataset"). Details on this dataset can be found at our ACL-2016 paper: Yih, Richardson, Meek, Chang & Suh. "[The Value of Semantic Parse Labeling for Knowledge Base Question Answering](https://aclweb.org/anthology/P/P16/P16-2033.pdf)."
 
 ## Run FastRDFStore on Freebase
 
