@@ -1,4 +1,4 @@
-a#MSR FastRDFStore Package
+#MSR FastRDFStore Package
 -----
 
 ## Overview
