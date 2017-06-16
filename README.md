@@ -132,7 +132,7 @@ bin\FreebaseToRDFStore.exe -c BuildStore -i data -o data
 
 ```
 # Find ghost entity nodes that no subject nodes can link to
-bin\FreebaseToRDFStore.exe -c BuildStore -i data -o data
+bin\FreebaseToRDFStore.exe -c FindGhost -i data -o data
 ```
 
 Once you have run this sequence of commands, you can run the FastRDFStore server on the data directory, as outlined above.
